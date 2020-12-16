@@ -1,6 +1,6 @@
 # Test task for Curson company
 
-![Иллюстрация к проекту](https://github.com/antonsmolko/curson-test/raw/master/assets/example.png)
+![Иллюстрация к проекту](https://github.com/antonsmolko/curson-test/blob/master/src/assets/example.png)
 
 ## Description
 
